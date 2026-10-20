@@ -1,0 +1,20 @@
+# === Пользовательские данные (не для репо) ===
+nodes_list.txt
+.env
+.env.*
+
+# === Временное / артефакты ===
+*.log
+*.tmp
+*.bak
+*.swp
+
+# === Windows-специфика (скрипт для Windows/WSL) ===
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === IDE ===
+.vscode/
+.idea/
+*.code-workspace
